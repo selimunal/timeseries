@@ -1,3 +1,3 @@
 # timeseries
 
-This is my time series learning notes
+This is my time series notes
